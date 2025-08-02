@@ -4,7 +4,7 @@ import com.itextpdf.text.*;
 import com.itextpdf.text.Font;
 
 public class TemplateStyle {
-    // For PDF
+
     public Font titleFont;
     public Font descFont;
     public BaseColor separatorColor;
@@ -12,7 +12,6 @@ public class TemplateStyle {
     public BaseColor descBgColor;
     public String layoutType;
 
-    // For JavaFX
     public String titleColor;
     public String descriptionColor;
     public String backgroundColor;
